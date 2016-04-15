@@ -1,2 +1,2 @@
 # tutorialrepo
-experimental repository for learning and finessing github
+experimenting repository for learning and finessing github
